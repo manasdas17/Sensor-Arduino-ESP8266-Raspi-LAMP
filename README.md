@@ -7,5 +7,5 @@ communication through ESP8266 module.
 Raspberry Pi has implemented a LAMP server which receive data values using a "GET" request.
 
 * Considerations:
-Some ESP8266 Firmware version have bugs. These bugs won't affect if they are connected to a WiFi Network which same would be like "Name12"
+Some ESP8266 Firmware versions have bugs. These bugs won't affect if they are connected to a WiFi Network which same would be like "Name12"
 (name with some numbers and without space between characters).
